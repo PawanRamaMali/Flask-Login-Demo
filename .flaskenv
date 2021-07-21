@@ -1,0 +1,3 @@
+FLASK_APP=flaskMongoApp.py
+FLASK_ENV=development
+SECRET_KEY=5467456456
